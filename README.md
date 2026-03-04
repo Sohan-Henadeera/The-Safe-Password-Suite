@@ -1,2 +1,4 @@
 # The-Safe-Password-Suite
 An interactive web dashboard demonstrating cryptographic hashing, k-Anonymity privacy models, and password security concepts.
+
+To publicly access: http://192.168.1.117:8501
